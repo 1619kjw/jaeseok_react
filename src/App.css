@@ -1,0 +1,9 @@
+html, body {}
+#root {margin:0 auto;}
+#wrap {width:420px; height:800px; background:#eee; padding:20px 15px;}
+#wrap main {}
+h1 {text-align:center; font-size:1.25rem;}
+img {width:100%;}
+nav {text-align:center;}
+a {margin-right:10px; color:#000; }
+p {text-align:left;}
